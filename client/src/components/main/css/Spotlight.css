@@ -1,0 +1,47 @@
+.spt-container{
+    margin-top: 4rem;
+    margin-left: 35%;
+    min-width: 450px;
+}
+
+@media screen and (max-width: 950px) {
+    .container{
+        margin-left: 20rem;
+    }
+}
+
+.title{
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.content-container{
+    margin-left: .6rem;
+    padding: .3rem;
+}
+
+.btn-spotlight{
+    font-size: 1.1rem;
+    padding: .4rem;
+    background-color: rgb(52,152,255);
+    margin-bottom: .6rem;
+    border-radius: .4rem;
+}
+
+ul.list {
+    list-style-type: circle;
+    color: rgb(52,152,255);
+    font-weight: bold;
+}
+
+ul li{
+    padding: .2rem;
+}
+
+ul li a:hover{
+    color: black !important;
+    cursor:pointer;
+    text-decoration: underline !important;
+}
