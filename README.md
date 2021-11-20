@@ -8,3 +8,5 @@ Guide to run this application:
 
 - server will run on localhost:8000
 - client will run on localhost:3000
+
+Note: The uploaded files from Assignment Upload Section will be recieved inside 'recievedFiles' folder in the parent directory.
